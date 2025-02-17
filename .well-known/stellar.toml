@@ -8,11 +8,11 @@ ORG_DESCRIPTION="Trump Stellar Digital is a blockchain-based asset on the Stella
 
 [[CURRENCIES]]
 code="WBTC"
-issuer="GBT5RLLLO2RTHRDJKD4JNJXT7DMJSINWOZTOLAI2VKJPL5WX6YG5KP5R"
+issuer="GC5XWNULFN7JNSYZGANQUCBGD7QIO2CCOU4IDH6B3A2B7TVOMMVARY2R"
 status="live"
 display_decimals=5
 name="WBTC"
-fixed_number=3000000000
+fixed_number=30000000000
 desc="WBTC is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WBTC is 30B tokens only"
 image="https://trumpstellar.digital/assets/WBTC.png"
