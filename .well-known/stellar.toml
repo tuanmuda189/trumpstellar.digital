@@ -8,7 +8,7 @@ ORG_DESCRIPTION="Trump Stellar Digital is a blockchain-based asset on the Stella
 
 [[CURRENCIES]]
 code="WBTC"
-issuer="GDUWVJWR6UBZ5HSAMEZSUKBNDVVNNJVZYVLTBXM2QGP4EKBRKNLGLWO5"
+issuer="GBT5RLLLO2RTHRDJKD4JNJXT7DMJSINWOZTOLAI2VKJPL5WX6YG5KP5R"
 status="live"
 display_decimals=5
 name="WBTC"
