@@ -3,5 +3,5 @@ VERSION="1.0.0"
 [DOCUMENTATION]
 ORG_NAME="Trump Stellar Digital"
 ORG_URL="https://trumpstellar.digital"
-OORG_LOGO="https://trumpstellar.digital/assets/trumpstellardigital-website-logo.png"
+ORG_LOGO="https://trumpstellar.digital/assets/trumpstellardigital-website-logo.png"
 ORG_DESCRIPTION="Trump Stellar Digital is a blockchain-based asset on the Stellar network, blending crypto innovation with entertainment, inspired by the spirit of Trump's digital influence."
