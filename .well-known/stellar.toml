@@ -5,3 +5,11 @@ ORG_NAME="Trump Stellar Digital"
 ORG_URL="https://trumpstellar.digital"
 ORG_LOGO="https://trumpstellar.digital/assets/trumpstellardigital-website-logo.png"
 ORG_DESCRIPTION="Trump Stellar Digital is a blockchain-based asset on the Stellar network, blending crypto innovation with entertainment, inspired by the spirit of Trump's digital influence."
+
+[[CURRENCIES]]
+asset_code="WBTC"
+issuer="GDDAID3AFKRCZBFCFYL75H22CXDJEC2QPFKAXR673YETC7SVNQSTUARP"
+display_decimals=5
+name="WBTC"
+desc="WBTC is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+image="https://trumpstellar.digital/assets/WBTC.png"
