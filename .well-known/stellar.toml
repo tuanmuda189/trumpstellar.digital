@@ -15,4 +15,4 @@ name="WBTC"
 fixed_number=30000000000
 desc="WBTC is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WBTC is 30B tokens only"
-image=https://trumpstellar.digital/.well-known/stellar.toml
+image=https://trumpstellar.digital/WBTC.png
