@@ -10,3 +10,9 @@
   [headers.values]
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
+
+[[redirects]]
+  from = "http://trumpstellar.digital/*"
+  to = "https://trumpstellar.digital/:splat"
+  status = 301
+  force = true
