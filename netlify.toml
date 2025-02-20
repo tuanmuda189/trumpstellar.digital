@@ -1,12 +1,26 @@
-# The following redirect is intended for use with most SPAs that handle
-# routing internally.
+# Redirect SPA routes but NOT Stellar TOML
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
 
+# Ensure .well-known/stellar.toml is directly accessible (NO REDIRECT)
 [[headers]]
-  # Define which paths this specific [[headers]] block will cover.
+  for = "/.well-known/stellar.toml"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+    Content-Type = "text/plain; charset=utf-8"
+
+# Ensure assets (logos) are accessible
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+
+# Set global CORS headers for all routes
+[[headers]]
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
