@@ -1,4 +1,10 @@
-# Ensure .well-known/stellar.toml is accessible and not redirected
+# Redirect SPA routes but NOT Stellar TOML
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Ensure .well-known/stellar.toml is directly accessible (NO REDIRECT)
 [[headers]]
   for = "/.well-known/stellar.toml"
   [headers.values]
@@ -13,8 +19,8 @@
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Methods = "GET, POST, OPTIONS"
 
-# Standard redirect for SPA routing (DO NOT apply to Stellar TOML)
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# Set global CORS headers for all routes
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
