@@ -1,12 +1,27 @@
-# The following redirect is intended for use with most SPAs that handle
-# routing internally.
+# Ensure .well-known/stellar.toml is accessible and not redirected
+[[headers]]
+  for = "/.well-known/stellar.toml"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+    Content-Type = "text/plain; charset=utf-8"
+
+# Ensure assets (logos) are accessible
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+
+# Redirect HTTP to HTTPS (if needed)
+[[redirects]]
+  from = "http://trumpstellar.digital/*"
+  to = "https://trumpstellar.digital/:splat"
+  status = 301
+  force = true
+
+# Standard redirect for SPA routing (DO NOT apply to Stellar TOML)
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-
-[[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
