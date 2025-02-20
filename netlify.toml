@@ -2,19 +2,11 @@
   for = "/.well-known/stellar.toml"
   [headers.values]
     Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, OPTIONS"
-    Access-Control-Allow-Headers = "Origin, X-Requested-With, Content-Type, Accept"
+    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
     Content-Type = "text/plain; charset=utf-8"
 
 [[headers]]
   for = "/assets/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, OPTIONS"
-    Access-Control-Allow-Headers = "Origin, X-Requested-With, Content-Type, Accept"
-
-[[redirects]]
-  from = "http://trumpstellar.digital/*"
-  to = "https://trumpstellar.digital/:splat"
-  status = 301
-  force = true
+    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
