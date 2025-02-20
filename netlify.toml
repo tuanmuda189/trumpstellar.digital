@@ -13,13 +13,6 @@
     Access-Control-Allow-Origin = "*"
     Access-Control-Allow-Methods = "GET, POST, OPTIONS"
 
-# Redirect HTTP to HTTPS (if needed)
-[[redirects]]
-  from = "http://trumpstellar.digital/*"
-  to = "https://trumpstellar.digital/:splat"
-  status = 301
-  force = true
-
 # Standard redirect for SPA routing (DO NOT apply to Stellar TOML)
 [[redirects]]
   from = "/*"
