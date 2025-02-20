@@ -16,3 +16,14 @@ fixed_number=30000000000
 desc="WBTC is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WBTC is 30B tokens only"
 image="https://trumpstellar.digital/WBTC.png"
+
+[[CURRENCIES]]
+code="WETH"
+issuer="GBY7PQN7NYEGJ46P3KJWFBS6XL5QXV3MROLHW7CL4VYA65BAX75SWELO"
+status="live"
+display_decimals=5
+name="WETH"
+fixed_number=30000000000
+desc="WETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WETH is 30B tokens only"
+image="https://trumpstellar.digital/WETH.png"
