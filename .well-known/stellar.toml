@@ -27,3 +27,14 @@ fixed_number=30000000000
 desc="WETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WETH is 30B tokens only"
 image="https://trumpstellar.digital/WETH.png"
+
+[[CURRENCIES]] 
+code="WXRP"
+issuer="GAWJ7ANHRGMJQB26W3CW5PCPHYYOGYNSU6X24FXOF2WACU24KPJNNHHS"
+status="live"
+display_decimals=5
+name="WXRP"
+fixed_number=30000000000
+desc="WXRP is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WXRP is 30B tokens only"
+image="https://trumpstellar.digital/WXRP.png"
