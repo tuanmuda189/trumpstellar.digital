@@ -49,3 +49,14 @@ fixed_number=30000000000
 desc="WBNB is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WBNB is 30B tokens only"
 image="https://trumpstellar.digital/WBNB.png"
+
+[[CURRENCIES]] 
+code="WUSDT"
+issuer="GDT3KCEC67PKYGIOTSINZF3DU3FGK2WHCWZ776NFZKSLO66HIMLF4G3E"
+status="live"
+display_decimals=5
+name="WUSDT"
+fixed_number=30000000000
+desc="WUSDT is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WUSDT is 30B tokens only"
+image="https://trumpstellar.digital/WUSDT.png"
