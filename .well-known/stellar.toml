@@ -60,3 +60,14 @@ fixed_number=30000000000
 desc="WUSDT is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WUSDT is 30B tokens only"
 image="https://trumpstellar.digital/WUSDT.png"
+
+[[CURRENCIES]] 
+code="WSOL"
+issuer="GBCVFGB3OBKF2BB6RINBA777YOWVA4H6H3DQRDYOPCPWJYW3NQ3XB4N7"
+status="live"
+display_decimals=5
+name="WSOL"
+fixed_number=30000000000
+desc="WSOL is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WSOL is 30B tokens only"
+image="https://trumpstellar.digital/WSOL.png"
