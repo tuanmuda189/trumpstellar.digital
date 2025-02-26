@@ -85,7 +85,7 @@ image="https://trumpstellar.digital/WDOGE.png"
 
 [[CURRENCIES]] 
 code="WADA"
-issuer=""
+issuer="GADDLSREE2WZ5GUU2YXVVQK24L353WHP3ROQYW5K6JEO4RFSFVGQXDIR"
 status="live"
 display_decimals=5
 name="WADA"
@@ -96,7 +96,7 @@ image="https://trumpstellar.digital/WADA.png"
 
 [[CURRENCIES]] 
 code="WSTETH"
-issuer=""
+issuer="GDXFJ2NGO52AQF645IGDTGZJKKWD55HHZAHHTZMUL56D2PCXSLUTUASA"
 status="live"
 display_decimals=5
 name="WSTETH"
