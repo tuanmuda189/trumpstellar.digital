@@ -82,3 +82,14 @@ fixed_number=30000000000
 desc="WDOGE is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WDOGE is 30B tokens only"
 image="https://trumpstellar.digital/WDOGE.png"
+
+[[CURRENCIES]] 
+code="WSTETH"
+issuer=""
+status="live"
+display_decimals=5
+name="WSTETH"
+fixed_number=30000000000
+desc="WSTETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WSTETH is 30B tokens only"
+image="https://trumpstellar.digital/WSTETH.png"
