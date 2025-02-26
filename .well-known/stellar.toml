@@ -1,4 +1,4 @@
-VERSION="2.0.0"
+VERSION="2.5.0"
 
 [DOCUMENTATION]
 ORG_NAME="Trump Stellar Digital"
@@ -82,25 +82,3 @@ fixed_number=30000000000
 desc="WDOGE is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WDOGE is 30B tokens only"
 image="https://trumpstellar.digital/WDOGE.png"
-
-[[CURRENCIES]] 
-code="WSTETH"
-issuer="GDXFJ2NGO52AQF645IGDTGZJKKWD55HHZAHHTZMUL56D2PCXSLUTUASA"
-status="live"
-display_decimals=5
-name="WSTETH"
-fixed_number=30000000000
-desc="WSTETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
-conditions="Maximum supply of WSTETH is 30B tokens only"
-image="https://trumpstellar.digital/WSTETH.png"
-
-[[CURRENCIES]] 
-code="WEETH"
-issuer="GDWKYZDOBU2UX6C52Y42ZGABVS2GDYTUQR5A7WZ56JJAWQFIHVWL33LR"
-status="live"
-display_decimals=5
-name="WEETH"
-fixed_number=30000000000
-desc="WEETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
-conditions="Maximum supply of WEETH is 30B tokens only"
-image="https://trumpstellar.digital/WEETH.png"
