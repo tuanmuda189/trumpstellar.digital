@@ -84,6 +84,17 @@ conditions="Maximum supply of WDOGE is 30B tokens only"
 image="https://trumpstellar.digital/WDOGE.png"
 
 [[CURRENCIES]] 
+code="WADA"
+issuer=""
+status="live"
+display_decimals=5
+name="WADA"
+fixed_number=30000000000
+desc="WADA is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WADA is 30B tokens only"
+image="https://trumpstellar.digital/WADA.png"
+
+[[CURRENCIES]] 
 code="WSTETH"
 issuer=""
 status="live"
@@ -93,3 +104,14 @@ fixed_number=30000000000
 desc="WSTETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WSTETH is 30B tokens only"
 image="https://trumpstellar.digital/WSTETH.png"
+
+[[CURRENCIES]] 
+code="WEETH"
+issuer=""
+status="live"
+display_decimals=5
+name="WEETH"
+fixed_number=30000000000
+desc="WEETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WEETH is 30B tokens only"
+image="https://trumpstellar.digital/WEETH.png"
