@@ -115,3 +115,14 @@ fixed_number=30000000000
 desc="WEETH is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WEETH is 30B tokens only"
 image="https://trumpstellar.digital/WEETH.png"
+
+[[CURRENCIES]] 
+code="TRUMP"
+issuer="GBEQOYSTKCZAM5VAKVLSO2II2XGEGFNOAMAUNCA6LQNWKDRRIRGTLLEO"
+status="live"
+display_decimals=5
+name="TRUMP"
+fixed_number=30000000000
+desc="TRUMP is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of TRUMP is 30B tokens only"
+image="https://trumpstellar.digital/TRUMP.png"
