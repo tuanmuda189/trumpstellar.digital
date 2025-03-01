@@ -126,3 +126,14 @@ fixed_number=30000000000
 desc="TRUMP is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of TRUMP is 30B tokens only"
 image="https://trumpstellar.digital/TRUMP.png"
+
+[[CURRENCIES]] 
+code="MELANIA"
+issuer="GCEE7ROAPWZLX4LQX3DSTBLKPTCNEWYNHN37RMYTOZHLASZ2IJDEVAUI"
+status="live"
+display_decimals=5
+name="MELANIA"
+fixed_number=30000000000
+desc="MELANIA is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of MELANIA is 30B tokens only"
+image="https://trumpstellar.digital/MELANIA.png"
