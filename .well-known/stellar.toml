@@ -137,3 +137,14 @@ fixed_number=30000000000
 desc="MELANIA is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of MELANIA is 30B tokens only"
 image="https://trumpstellar.digital/MELANIA.png"
+
+[[CURRENCIES]] 
+code="WTRUMP"
+issuer="GBMMBYN67ZVV77WKYZLMJPFVLPRGIKYVWXGVZNA5IUIQQSRVCPTQFUAX"
+status="live"
+display_decimals=5
+name="WTRUMP"
+fixed_number=30000000000
+desc="WTRUMP is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WTRUMP is 30B tokens only"
+image="https://trumpstellar.digital/WTRUMP.png"
