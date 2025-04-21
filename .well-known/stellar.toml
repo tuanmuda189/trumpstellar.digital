@@ -148,3 +148,14 @@ fixed_number=30000000000
 desc="WTRUMP is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of WTRUMP is 30B tokens only"
 image="https://trumpstellar.digital/WTRUMP.png"
+
+[[CURRENCIES]] 
+code="TARIFFS"
+issuer="GBJ4YDF3ONAAD5NVXULW7OEV3HBZKMOVWG3KY4ENMIHDG6JPJYMPMYBR"
+status="live"
+display_decimals=5
+name="TARIFFS"
+fixed_number=30000000000
+desc="TARIFFS is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of TARIFFS is 30B tokens only"
+image="https://trumpstellar.digital/TARIFFS.png"
