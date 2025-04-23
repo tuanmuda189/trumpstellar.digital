@@ -159,3 +159,14 @@ fixed_number=30000000000
 desc="TARIFFS is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of TARIFFS is 30B tokens only"
 image="https://trumpstellar.digital/TARIFFS.png"
+
+[[CURRENCIES]] 
+code="TRADEWARS"
+issuer="GCIITFA4F2EBMN36Y5REKZLPNUWUEM6562DGI4ET2R4IQ2GODBYLHQ5Y"
+status="live"
+display_decimals=5
+name="TRADEWARS"
+fixed_number=30000000000
+desc="TRADEWARS is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of TRADEWARS is 30B tokens only"
+image="https://trumpstellar.digital/TRADEWARS.png"
