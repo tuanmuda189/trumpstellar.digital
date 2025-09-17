@@ -170,3 +170,15 @@ fixed_number=30000000000
 desc="TRADEWARS is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of TRADEWARS is 30B tokens only"
 image="https://trumpstellar.digital/TRADEWARS.png"
+
+[[CURRENCIES]] 
+code="RATECUTS"
+issuer="GBO6T2UJBSXVZZJIMF6NK3HNPAWSPGNAXUIUX2BNAMHF2GPTE7KK46YA"
+status="live"
+display_decimals=5
+name="RATECUTS"
+fixed_number=30000000000
+desc="RATECUTS is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of RATECUTS is 30B tokens only"
+image="https://trumpstellar.digital/RATECUTS.png"
+
