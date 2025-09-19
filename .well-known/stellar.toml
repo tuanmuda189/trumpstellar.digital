@@ -182,3 +182,13 @@ desc="RATECUTS is a blockchain asset on the Stellar network by trumpstellardigit
 conditions="Maximum supply of RATECUTS is 30B tokens only"
 image="https://trumpstellar.digital/RATECUTS.png"
 
+[[CURRENCIES]] 
+code="CHARLIEKIRK"
+issuer="GCJEAVXN2WIPZE4PL5Z447BYVY6HEQ64ZNZXNXTJOWSE77FCGIKPLGHN"
+status="live"
+display_decimals=5
+name="CHARLIEKIRK"
+fixed_number=30000000000
+desc="CHARLIEKIRK is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of CHARLIEKIRK is 30B tokens only"
+image="https://trumpstellar.digital/CHARLIEKIRK.png"
