@@ -192,3 +192,15 @@ fixed_number=30000000000
 desc="CHARLIEKIRK is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
 conditions="Maximum supply of CHARLIEKIRK is 30B tokens only"
 image="https://trumpstellar.digital/CHARLIEKIRK.png"
+
+[[CURRENCIES]] 
+code="ASTERz"
+issuer="GAC2R4HCD7NRTBQ2WC4KLTJKCB6M7OSR4DZOV3QGNQAZCURKWZJYYVPA"
+status="live"
+display_decimals=5
+name="ASTERz"
+fixed_number=30000000000
+desc="ASTERz is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of ASTERz is 30B tokens only"
+image="https://trumpstellar.digital/ASTERz.png"
+
