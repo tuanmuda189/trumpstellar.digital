@@ -204,3 +204,13 @@ desc="ASTERz is a blockchain asset on the Stellar network by trumpstellardigital
 conditions="Maximum supply of ASTERz is 30B tokens only"
 image="https://trumpstellar.digital/ASTERz.png"
 
+[[CURRENCIES]] 
+code="WTON"
+issuer="GDN4EQ7OVVDCRLL2BZD4KN57Z76LNHEIQKWUFJNOKMSY5ZEANDRFEARX"
+status="live"
+display_decimals=5
+name="WTON"
+fixed_number=30000000000
+desc="WTON is a blockchain asset on the Stellar network by trumpstellardigital, designed for innovation and entertainment"
+conditions="Maximum supply of WTON is 30B tokens only"
+image="https://trumpstellar.digital/WTON.png"
